@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/probavizsga2022Frontend/static/css/main.764d5dee.css",
+    "main.js": "/probavizsga2022Frontend/static/js/main.b5c8f4cd.js",
+    "static/js/453.551a0c3b.chunk.js": "/probavizsga2022Frontend/static/js/453.551a0c3b.chunk.js",
+    "index.html": "/probavizsga2022Frontend/index.html",
+    "main.764d5dee.css.map": "/probavizsga2022Frontend/static/css/main.764d5dee.css.map",
+    "main.b5c8f4cd.js.map": "/probavizsga2022Frontend/static/js/main.b5c8f4cd.js.map",
+    "453.551a0c3b.chunk.js.map": "/probavizsga2022Frontend/static/js/453.551a0c3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764d5dee.css",
+    "static/js/main.b5c8f4cd.js"
+  ]
+}
